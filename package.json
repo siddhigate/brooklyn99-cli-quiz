@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/siddhigate/brooklyn99-cli-uqiz/issues"
   },
-  "homepage": "https://github.com/siddhigate/brooklyn99-cli-uqiz#readme"
+  "homepage": "https://github.com/siddhigate/brooklyn99-cli-uqiz#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "readline-sync": "^1.4.10"
+  }
 }
