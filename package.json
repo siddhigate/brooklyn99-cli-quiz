@@ -1,0 +1,20 @@
+{
+  "name": "brooklyn99-cli-uqiz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddhigate/brooklyn99-cli-uqiz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siddhigate/brooklyn99-cli-uqiz/issues"
+  },
+  "homepage": "https://github.com/siddhigate/brooklyn99-cli-uqiz#readme"
+}
