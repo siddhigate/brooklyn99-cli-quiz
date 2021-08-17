@@ -24,7 +24,7 @@ function rules(){
 }
 
 // welcome message
-console.log(chalk.green.bold("Welcome to DO YOU KNOW SIDDHI? quiz"));
+console.log(chalk.green.bold("Welcome to Brooklyn 99 quiz"));
 emptyLine(); colorLine(); emptyLine();
 
 // current player object
